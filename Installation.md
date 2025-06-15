@@ -3,8 +3,8 @@
 Download the package file from the link below.
 
 ```
-[https://outlookuga-my.sharepoint.com/:u:/g/personal/ul54354_uga_edu/EeQCxwzFBehFppWH1QHWG3EB78Lbrz5AAqvTn1ZohHgN6g?e=brDhM0](https://drive.google.com/file/d/1dll9aEGvj6I1u0ye1k0OWOfQbwaHocWO/view?usp=sharing)
-```
+[
+](https://drive.google.com/file/d/1dll9aEGvj6I1u0ye1k0OWOfQbwaHocWO/view?usp=sharing)```
 If you have trouble downloading the package file. 
 
 Email me I will send you a private google drive link.
