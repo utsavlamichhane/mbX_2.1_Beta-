@@ -3,8 +3,9 @@
 Download the package file from the link below.
 
 ```
-[
-](https://drive.google.com/file/d/1dll9aEGvj6I1u0ye1k0OWOfQbwaHocWO/view?usp=sharing)```
+https://drive.google.com/file/d/1dll9aEGvj6I1u0ye1k0OWOfQbwaHocWO/view?usp=sharing
+```
+
 If you have trouble downloading the package file. 
 
 Email me I will send you a private google drive link.
