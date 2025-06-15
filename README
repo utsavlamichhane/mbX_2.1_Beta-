@@ -1,0 +1,19 @@
+# mbX 2.1 Beta
+
+[![CRAN status](https://www.r-pkg.org/badges/version/mbX)](https://cran.r-project.org/package=mbX)  
+![Lifecycle: Beta](https://img.shields.io/badge/lifecycle-beta-orange.svg)
+
+A comprehensive R package for **cleaning**, **statistical analysis**, and **visualization** of microbiome sequencing data (16S-rRNA). Supports CSV, TXT, and Excel formats, and offers easy aggregation at any taxonomic level.
+
+---
+
+## ⚙️ What’s New in 2.1 Beta
+
+- **Import fix** for `pivot_longer()`: now explicitly imports **`tidyr::pivot_longer()`**, so `ezviz()` no longer fails on certain metadata factors (e.g. “Collector”).
+- Minor documentation updates and CRAN‐style namespace improvements.
+- Retains all features from **2.0**, including:
+  - `ezclean()` – full preprocessing pipeline
+  - `ezstat()`  – Kruskal–Wallis, Dunn tests, CLD summaries, boxplots
+  - `ezviz()`   – stacked‐bar visualization with flexible `top_taxa`/`threshold` options
+
+---
