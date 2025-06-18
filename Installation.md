@@ -8,7 +8,7 @@ https://drive.google.com/file/d/1dll9aEGvj6I1u0ye1k0OWOfQbwaHocWO/view?usp=shari
 
 If you have trouble downloading the package file. 
 
-Email me I will send you a private google drive link.
+Email me I will send you a private one drive link.
 
 Open R studio.
 
