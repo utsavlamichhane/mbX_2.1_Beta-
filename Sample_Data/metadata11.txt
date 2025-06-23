@@ -1,4 +1,4 @@
-sample-id	Age	Sex	Glucose	LDL	Insulin	BMI	BMIClass
+sample_id	Age	Sex	Glucose	LDL	Insulin	BMI	BMIClass
 S1	48	M	136	103	24.3	50.24	High
 S10	58	F	84	69	14	40.35	High
 S11	52	F	86	107	6.7	19.48	Low
