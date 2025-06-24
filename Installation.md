@@ -28,4 +28,6 @@ library(mbX)
 ```
 # Note on stable version:
 
+This is mbX_beta_2.1
+
 Once we complete the initial testing phase here at the University, We will update the stable version of mbX_2 via CRAN.
